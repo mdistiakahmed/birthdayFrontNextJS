@@ -1,0 +1,10 @@
+.description {
+    position: relative;
+    display: flex;
+    background-size: 500px 400px;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    font-family: cursive;
+    width: 200px;  
+    padding-left: 20px;
+}
